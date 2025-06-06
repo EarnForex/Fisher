@@ -6,6 +6,6 @@ You can change the main input parameter (**Period**) to regulate its sensitivity
 
 ![Fisher indicator is used here to detect trend strength and direction in BTC/USD trading](https://github.com/EarnForex/Fisher/blob/main/README_Images/fisher-marking-long-term-bitcoin-trends.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Fisher/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Fisher/
 
 Any contributions to the code are welcome!
